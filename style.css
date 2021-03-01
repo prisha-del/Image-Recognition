@@ -1,0 +1,24 @@
+body
+{
+    color:black;
+    background-color: pink;
+}
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    font-size: 15px;
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#camera, #result
+{
+    border: 2px dashed black;
+    width: 350px;    
+    height: 275px;
+}
+ 
